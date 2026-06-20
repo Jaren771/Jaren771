@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! 👨‍💻 I'm Jaren, a Growing Full Stack Developer and Systems Engineering student at the Technological University of Peru (UTP). I specialize in frontend technologies like JavaScript, TypeScript, React, and Next.js 🎨.<br><br>I also work on the backend and database side with Java, MongoDB, PostgreSQL, and SQL Server, managing everything with Git 🛠️.<br><br>I'm passionate about designing robust architectures and optimizing workflows. I use advanced environments (Antigravity IDE) and Artificial Intelligence to enhance the quality, security, and speed of my code.
+Hi everyone! 👨‍💻 I'm Jaren, a growing Full Stack Developer and Systems Engineering student at the Technological University of Peru (UTP). I specialize in frontend technologies like JavaScript, TypeScript, React, and Next.js 🎨.<br><br>I also work on the backend and database side with Java, MongoDB, PostgreSQL, and SQL Server, managing everything with Git 🛠️.<br><br>I'm passionate about designing robust architectures and optimizing workflows. I use advanced environments (Antigravity IDE) and Artificial Intelligence to enhance the quality, security, and speed of my code.
 
 - 🎯 **Current Focus:** Specializing in the TypeScript ecosystem and e-commerce development.
 
